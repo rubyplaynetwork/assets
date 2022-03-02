@@ -1,0 +1,10 @@
+{
+	"name":"RUBY",
+	"type":"BEP20",
+	"symbol":"RUBY",
+	"decimals":12,
+	"description":"The Ruby Play Network is a gaming rewards platform. We aim to drive adoption of the blockchain to mainstream players by providing them simple ways to earn cryptocurrency.",
+	"website":"https://www.rubyplaynet.com/",
+	"explorer":"https://bscscan.com/token/0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e",
+	"id":"0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e"
+}
